@@ -5,3 +5,5 @@ Test repo for training session.
 :wave:
 
 ## Heading 2
+
+Training fixed :smiling_face:
