@@ -6,4 +6,6 @@ Test repo for training session.
 
 ## Heading 2
 
-Training fixed :smiling_face:
+Training fixed :slightly_smiling_face:
+
+Making changes to close issue :wave:
