@@ -9,3 +9,6 @@ Test repo for training session.
 Training fixed :slightly_smiling_face:
 
 Making changes to close issue :wave:
+
+Bonus training:
+:watermelon: :banana: :apple:
